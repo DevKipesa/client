@@ -1,0 +1,28 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: whitesmoke;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    color: black;
+    
+}
+.nation{
+    margin-left: 70%;
+}
+.nation:hover{
+    color: #4ea5e2;
+}
+.sub{
+    margin-right: 5%;
+}
+.sub:hover{
+    color: #4ea5e2;
+}
+.count:hover{
+ color: #4ea5e2;
+}
