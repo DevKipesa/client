@@ -14,7 +14,6 @@ function home() {
         <div className='car'>
         <Card/>
         <Card/>
-        
         </div>
         <div className='tim'>
         <Card1 />
