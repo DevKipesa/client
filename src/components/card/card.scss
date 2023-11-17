@@ -1,0 +1,17 @@
+.card{
+    background-color: aqua;
+    width: 200px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: -450px;
+    display: flex;
+    
+}
+.ved{
+    margin-bottom: 40%;
+    margin-left: 20%;
+}
+.card:hover{
+    transform: scale(1.1);
+    border: 2px solid #fcfcfd;
+}

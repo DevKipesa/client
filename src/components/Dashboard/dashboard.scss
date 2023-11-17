@@ -1,0 +1,43 @@
+.dash{
+  color: black;  
+ background-color: aliceblue;
+ width: 250px;
+ height: 500px;
+ margin-left: -2%;
+
+}
+.dev,
+.infra,
+.fund,
+.time,
+.view {
+  margin-bottom: -10px;
+  margin-left: 40px;
+  margin-top: 60px;
+  font-weight: 1000;
+
+}
+.dev{
+    
+}
+.dev:hover{
+    color: #4ea5e2;
+}
+.infra:hover{
+    color: #4ea5e2; 
+}
+.fund:hover{
+    color: #4ea5e2; 
+}
+.time:hover{
+    color: #4ea5e2; 
+}
+.view:hover{
+ color: #4ea5e2; 
+}
+svg {
+    margin-right: 15px;
+    font-size: 1.5em;
+
+  }
+
