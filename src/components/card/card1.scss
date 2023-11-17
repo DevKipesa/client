@@ -1,0 +1,15 @@
+.funds{
+    background-color: aqua;
+    width: 200px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: 70px;
+    display: flex;
+    
+}
+
+
+.funds:hover{
+    transform: scale(1.1);
+    border: 2px solid #fcfcfd;
+}
