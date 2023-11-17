@@ -10,12 +10,18 @@ function home() {
     <div>
         <Navbar/>
         <Dashboard/>
+        <div className='two'>
         <div className='car'>
         <Card/>
         <Card/>
-        <Card/>
+        
         </div>
+        <div className='tim'>
         <Card1 />
+        <Card1 />
+        
+        </div>
+        </div>
         <Log/>
     </div>
   )
