@@ -7,14 +7,18 @@ function Dashboard() {
   return (
     <div className='one'>
       <div className='dash'>
+      <div className='dashb'>
+          <FontAwesomeIcon icon={faCode} />
+          DASHBOARD
+        </div>
         <div className='dev'>
           <FontAwesomeIcon icon={faCode} />
-          DEVELOPMENT
+          DASHBOARD
         </div>
 
         <div className='infra'>
           <FontAwesomeIcon icon={faServer} />
-          INFRASTRUCTURE
+          PROJECTS
         </div>
 
         <div className='fund'>
